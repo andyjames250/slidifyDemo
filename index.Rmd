@@ -8,9 +8,6 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
-github:
-  user: andyjames250
-  repo: slidifyDemo
 ---
 
 ## Read-And-Delete
